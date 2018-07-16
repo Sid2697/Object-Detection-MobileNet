@@ -13,7 +13,7 @@ This project was made for detecting 20 different types of object such as "backgr
 - imutils
 - OpenCV
 
-You can install all the required libraries by running the following command 
+You can install all the required libraries by running the following command <br>
 `pip install requirements.txt`
 ## Functionalities
 1. Using pre-trained [MobileNet](https://arxiv.org/abs/1704.04861) architecture for detection of the objects present.
